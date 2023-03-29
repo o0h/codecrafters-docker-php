@@ -1,4 +1,4 @@
-![progress-banner](https://codecrafters.io/landing/images/default_progress_banners/docker.png)
+[![progress-banner](https://app.codecrafters.io/progress/docker/ce805035-5414-4c32-b757-2e2f0b8ff150)](https://app.codecrafters.io/users/o0h)
 
 This is a starting point for PHP solutions to the
 ["Build Your Own Docker" Challenge](https://codecrafters.io/challenges/docker).
